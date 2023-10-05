@@ -29,7 +29,7 @@ const config: StorybookConfig = {
   },
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/05-DESIGN-SYSTEM/'
+      config.base = '/design-system-1.0/'
     }
 
     return config
