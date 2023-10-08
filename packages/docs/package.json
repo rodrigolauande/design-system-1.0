@@ -1,7 +1,7 @@
 {
   "name": "@ignite-ui/docs",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
+    "@lauande-ui/react": "*",
     "@ignite-ui/tokens": "*",
     "@storybook/addon-essentials": "^7.4.5",
     "@storybook/addon-interactions": "^7.4.5",
