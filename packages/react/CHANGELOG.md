@@ -1,5 +1,11 @@
 # @lauande-ui/react
 
+## 5.0.2
+
+### Patch Changes
+
+- Add ref to TextInput and adjust styles
+
 ## 5.0.1
 
 ### Patch Changes
